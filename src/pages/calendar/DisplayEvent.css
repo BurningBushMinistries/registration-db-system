@@ -1,0 +1,53 @@
+.css-1gvwpv9-MuiTableRow-root {
+    color: inherit;
+    display: inline-table !important;
+    vertical-align: super !important;
+    outline: 0;
+}
+
+.css-13pb773 {
+    color: inherit;
+    display: inline-table !important;
+    vertical-align: super !important;
+    outline: 0px;
+}
+
+.css-1cfizo9-MuiTableRow-root, .css-14pbuth {
+    color: inherit;
+    display: inline !important;
+    outline: 0;
+}
+
+.css-1uogrlq-MuiButtonBase-root-MuiTab-root, .css-1pesf1h {
+    padding: 12px 50px !important;
+}
+
+.css-1fmcalr-MuiTableCell-root, .css-717039 {
+    width: 100% !important;
+}
+
+
+.css-o69gx8-MuiCardMedia-root {
+    display: block;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-position: center;
+    background-position: center;
+    width: 100%;
+    object-fit: fill !important;
+}
+
+.css-17pmaar-MuiCardContent-root {
+    padding: 16px;
+    padding: 2px !important;
+}
+
+.css-rhsghg {
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    object-fit: fill !important;
+}
